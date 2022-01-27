@@ -1,0 +1,36 @@
+body{
+    background-image: url(img/betii.png);
+    background-size: auto;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+
+header{
+    color: rgb(74, 145, 228);
+    background-color: rgb(241, 208, 167);
+    text-transform: uppercase;
+    font-style: calc(3);
+}
+
+section{
+    color: cadetblue;
+    background-color: coral;
+}
+
+.importante{
+    background-color: chocolate;
+}
+
+.secundario{
+    background-color: cornflowerblue;
+}
+
+.terciaria{
+    background-color: crimson;
+}
+
+#titulo{
+    background-color: darkmagenta;
+    font-size: 100px
+}
