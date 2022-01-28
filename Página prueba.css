@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(236, 236, 236);
+}
+
+header{
+    background-color: rgba(19, 145, 145, 0.603);
+    background-position: center;
+    text-align-last: center;
+    color: white;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    padding: 7px;
+}
+
+table{
+    border-width: 5mm;
+}
+
+.TituloTabla{
+    background-color: white;
+    text-align-last: center;
+}
+
+td{
+    background-color: white;
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 4px;
+}
+
